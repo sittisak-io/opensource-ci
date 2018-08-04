@@ -6,3 +6,5 @@ Code Coverage: [![codecov](https://codecov.io/gh/CedricAgoda/opensource-ci/branc
 
 --------
 This repository contains the resource material for the [Tech@Agoda meetup](https://www.meetup.com/TechAtAgoda/events/252186961/)
+
+Test
